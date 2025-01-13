@@ -35,6 +35,8 @@ function addEventfunc(_e) {
     // Increment the eventID
     eventID++;
 
+    description.value = "";
+
     console.log(holder.innerHTML);
 }
 
